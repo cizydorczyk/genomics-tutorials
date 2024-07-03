@@ -1,0 +1,5 @@
+# BLASTN 2.11.0+
+# Query: NC_002516.2:1558171-1558890 lasR [organism=Pseudomonas aeruginosa PAO1] [GeneID=881789] [chromosome=]
+# Database: isolate-ffn/A566-P2939-30-10-2020
+# 0 hits found
+# BLAST processed 1 queries
